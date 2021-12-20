@@ -143,3 +143,44 @@
         font-size: 2em;
     }
 }
+
+
+/*          Index           */
+
+.bg-color{
+    background-color: #f4f4f4;
+}
+
+.container-wrapper{
+    margin: 0 auto;
+}
+@media (min-width: 1192px){
+    .container-wrapper{
+        padding-left: 75px;
+        padding-right: 75px;
+    }
+}
+
+.common-section{
+    padding: 80px 0;
+}
+
+.each-achievement{
+    text-align: center;
+}
+.each-achievement svg,
+.each-achievement img{
+    width: 45px;
+    display: block;
+    margin: 0 auto;
+}
+
+.each-achievement h6{
+    color: #000000;
+}
+
+.count-number{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: green;
+}

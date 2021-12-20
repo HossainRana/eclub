@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="398b8a4c-410c-4e61-bf20-679f9f20d210" name="Default Changelist" comment="" />
+    <list default="true" id="398b8a4c-410c-4e61-bf20-679f9f20d210" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/front/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/front/js/site.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/includes/head.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/includes/head.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/index.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +16,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -127,6 +136,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="22T52hEq1xh88C8hHHDN1PaInEG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -153,6 +163,7 @@
       <updated>1639848530738</updated>
       <workItem from="1639848531769" duration="5275000" />
       <workItem from="1639938295565" duration="5974000" />
+      <workItem from="1640024620270" duration="4327000" />
     </task>
     <servers />
   </component>
@@ -172,9 +183,9 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1982" y="240" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1639851265535" />
-    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1639943224463">
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1640026078110">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1639943224463" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1640026078110" />
   </component>
 </project>

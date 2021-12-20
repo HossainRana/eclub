@@ -11,6 +11,7 @@
     <link href="{{asset('front/css')}}/index.css" rel="stylesheet"/>
     <link href="{{asset('front/css')}}/header.css" rel="stylesheet"/>
     <link href="{{asset('front/css')}}/footer.css" rel="stylesheet"/>
+    <link href="{{asset('front/css')}}/aos.css" rel="stylesheet"/>
 
 
     {{--            Bootstrap Css           --}}
@@ -23,10 +24,13 @@
 
     {{--            Bootstrap Js            --}}
 
-    <script src="{{asset('front/js')}}//site.js" ></script>
     <script src="{{asset('front/bootstrap')}}/js/bootstrap.bundle.js" ></script>
     <script src="{{asset('front/bootstrap')}}/js/bootstrap.js" ></script>
     <script src="{{asset('front/bootstrap')}}/js/bootstrap.min.js" ></script>
+
+
+    <script src="{{asset('front/js')}}/site.js" ></script>
+    <script src="{{asset('front/js')}}/aos.js" ></script>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
