@@ -1,0 +1,145 @@
+
+.simple-banner-container .simple-banner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2em 0;
+    height: 19em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.blog-banner {
+    background-image: radial-gradient(circle, #ffaf0d, #fdaa0d, #fba60e, #f8a10e, #f69d0f, #f4950a, #f38c07, #f18405, #ef7503, #ed6405, #ea530b, #e63f11), url(https://i.ibb.co/R3STHG6/blog-megaphone.png);
+    background-size: contain !important;
+    background-blend-mode: hue;
+}
+
+.simple-banner-container .simple-banner h1 {
+    font-size: 7em;
+    margin-top: 0;
+    margin-bottom: -.15em;
+}
+
+.verveine {
+    font-family: verveine,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.white-text {
+    -moz-transition: color .2s ease-in;
+    -o-transition: color .2s ease-in;
+    -webkit-transition: color .2s ease-in;
+    color: #fff;
+}
+
+.filter-shadow-big {
+    -webkit-filter: drop-shadow(5px 5px 5px #22222214);
+    filter: drop-shadow(5px 5px 5px #22222214);
+}
+
+.simple-banner-container .simple-banner .second-line {
+    display: flex;
+    justify-content: center;
+}
+
+.simple-banner-container .simple-banner .second-line {
+    display: flex;
+    justify-content: center;
+}
+
+.simple-banner-container .simple-banner.simple-banner--full-width, .simple-banner-container .simple-banner.simple-banner--full-width video {
+    background-size: cover;
+    height: 23em;
+}
+
+.simple-banner-container .simple-banner .second-line.w-50 {
+    width: 80% !important;
+}
+
+.museo-sans-300 {
+    font-family: museo-sans,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+@media (min-width: 577px) {
+    .simple-banner-container .simple-banner.simple-banner--mid-height {
+        height: 32em;
+    }
+    .simple-banner-container .simple-banner.simple-banner--full-width, .simple-banner-container .simple-banner.simple-banner--full-width video {
+        height: 30em;
+    }
+    .simple-banner-container .simple-banner.simple-banner--mid-height h1 {
+        margin-top: .7em;
+    }
+    .simple-banner-container .simple-banner .second-line.w-50 {
+        width: 50% !important;
+    }
+    .simple-banner-container .simple-banner .first-line, .simple-banner-container .simple-banner .second-line {
+        font-size: 1.25em;
+    }
+    .simple-banner-container .simple-banner {
+        height: 21em;
+    }
+}
+
+@media (min-width: 768px) {
+    .simple-banner-container .simple-banner.simple-banner--mid-height {
+        height: 32em;
+    }
+    .simple-banner-container .simple-banner.simple-banner--full-width, .simple-banner-container .simple-banner.simple-banner--full-width video {
+        height: 36em;
+    }
+    .simple-banner-container .simple-banner.simple-banner--mid-height h1 {
+        font-size: 12em;
+        margin-top: .4em;
+    }
+    .simple-banner-container .simple-banner .second-line.w-50 {
+        width: 70% !important;
+    }
+    .simple-banner-container .simple-banner .first-line, .simple-banner-container .simple-banner .second-line {
+        font-size: 1.5em;
+    }
+    .simple-banner-container .simple-banner {
+        padding: 2em 0;
+        height: 24em;
+    }
+}
+
+
+@media (min-width: 992px) {
+    .simple-banner-container .simple-banner.simple-banner--mid-height {
+        height: 37em;
+    }
+    .simple-banner-container .simple-banner.simple-banner--full-width, .simple-banner-container .simple-banner.simple-banner--full-width video {
+        height: 42em;
+    }
+    .simple-banner-container .simple-banner .second-line.w-50 {
+        width: 50% !important;
+    }
+    .simple-banner-container .simple-banner {
+        background-size: contain;
+        height: 47em;
+        padding: 6em 0;
+    }
+}
+
+@media (min-width: 1200px) {
+    .simple-banner-container .simple-banner.simple-banner--mid-height {
+        height: 50em;
+    }
+    .simple-banner-container .simple-banner.simple-banner--full-width, .simple-banner-container .simple-banner.simple-banner--full-width video {
+        height: 100%;
+    }
+    .simple-banner-container .simple-banner.simple-banner--mid-height h1 {
+        font-size: 17em;
+        margin-top: .6em;
+        margin-bottom: .15em;
+    }
+    .simple-banner-container .simple-banner .first-line, .simple-banner-container .simple-banner .second-line {
+        font-size: 2em;
+    }
+}
