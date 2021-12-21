@@ -256,6 +256,42 @@
         </div>
     </div>
 
+    <div class="common-section bg-color">
+        <div class="container-wrapper">
+            <div class="custom-card bg-animation border-radius-10 box-shadow-cu">
+                <div class="row m-0 p-4">
+                    <div class="col-lg-4">
+                        <div class="benefit-details">
+                            <h3 class="title-br">Benefits of Members</h3>
+                            <ul class="common-ul">
+                                <li>Advocacy for Software & ITES</li>
+                                <li>Corporate Tax Exemption</li>
+                                <li>Network Possibilities</li>
+                                <li>Recommendation of Trained Human Resources</li>
+                                <li>Access to programmes and projects</li>
+                                <li>Seminars and Workshops</li>
+                                <li>Training Courses</li>
+                                <li>Discounted Rates for Event Participation</li>
+                                <li>Office Space in STP-1</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="mid-be-mem">
+                            <h1>
+                                Become A<br/>
+                                <span>MEMBER</span>
+                            </h1>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="apply-b"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <script>
         AOS.init();

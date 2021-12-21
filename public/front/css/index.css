@@ -221,3 +221,83 @@
     line-height: 1.8;
     color: #000;
 }
+
+.custom-card{
+    position: relative;
+    overflow: hidden;
+}
+
+.bg-animation{
+    background-image: url("../images/svg/bubble.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.border-radius-10{
+    border-radius: 10px;
+}
+.box-shadow-cu{
+    box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+}
+
+.title-br{
+    position: relative;
+    font-size: 25px;
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+
+.title-br::after{
+    content: "";
+    width: 100px;
+    height: 3px;
+    background-color: green;
+    position: absolute;
+    left: 0;
+    display: block;
+    margin-top: 5px;
+}
+
+.common-ul li{
+    font-weight: 600;
+    position: relative;
+    padding: 0.25rem 1.5rem;
+    list-style: none;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+.common-ul li::before{
+    content: "\00BB";
+    font-family: initial;
+    font-weight: 900;
+    font-size: 17px;
+    position: absolute;
+    left: 0;
+    padding: 0.025rem;
+}
+.mid-be-mem{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.mid-be-mem h1{
+    font-size: 54px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 0;
+    text-align: center;
+}
+.mid-be-mem span{
+    color: #0080008c;
+}
+
+.apply-b{
+    background-image: url("../images/svg/arrow.svg");
+    height: 100%;
+    width: 100%;
+}
