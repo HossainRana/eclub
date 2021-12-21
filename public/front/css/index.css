@@ -184,3 +184,40 @@
     font-weight: 700;
     color: green;
 }
+
+.section-title{
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    letter-spacing: .05em;
+    text-shadow: 1px 1px 1px rgb(0 0 0 / 20%);
+}
+
+.box{
+    text-align: center;
+    padding: 3rem;
+    transition: all 0.3ms ease-in;
+}
+
+.box-border-right{
+    border-right: 5px solid #ececec;
+}
+
+@media screen and (max-width: 768px){
+    .box-border-right{
+        border-right: 0!important;
+    }
+}
+
+.box-details h3{
+    font-size: 2.5rem;
+    font-weight: 500;
+    color: #000;
+}
+
+.box-details p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.8;
+    color: #000;
+}

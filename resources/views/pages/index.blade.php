@@ -232,6 +232,30 @@
         </div>
     </div>
 
+    <div class="common-section text-center">
+        <h1 class="section-title">Mission & Vision</h1>
+        <div class="container">
+            <div class="row py-4">
+                <div class="col-lg-6 aos-animate p-0" data-aos-duration="1000" data-aos="fade-right" data-aos-offset="100">
+                    <div class="box box-border-right">
+                        <div class="box-details">
+                            <h3>Mission</h3>
+                            <p>To develop the ambition, capacity and sustainable growth of the BASIS member companies, and to lead and deliver the BASIS contribution to One Bangladesh.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 aos-animate p-0" data-aos-duration="1500" data-aos="fade-left" data-aos-offset="100">
+                    <div class="box">
+                        <div class="box-details">
+                            <h3>Vision</h3>
+                            <p>To lead the development of a vibrant, sustainable and successful software and IT service industry in Bangladesh.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <script>
         AOS.init();
